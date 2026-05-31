@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingeelete",
+        "uuid": 20390700,
+        "checksum": "gph2dm"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
